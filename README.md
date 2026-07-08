@@ -6,14 +6,6 @@ A network-layer protocol that enforces media authenticity by combining **cryptog
 Trust(M) = α · Verify(σ,M) + (1−α) · fθ(M)
 ```
 
-## Team
-
-| Member | Role | Component |
-|--------|------|-----------|
-| Muhammad Shaheer Zafar (22K-5138) | AI/ML Lead | `model/`, `checkpoints/` |
-| Syed Hasham Uddin (22K-6013) | Frontend & Signer Lead | `signer/`, `frontend/` |
-| Sohaib Sherwani (21K-4790) | Backend & Protocol Lead | `backend/` |
-
 ## Project Structure
 
 ```
